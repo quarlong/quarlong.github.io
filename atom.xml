@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quarlong.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-10-14T05:01:24.324Z</updated>
+    <title>FX-Hub</title>
+    <updated>2019-10-14T05:03:42.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quarlong.github.io"/>
     <link rel="self" href="https://quarlong.github.io/atom.xml"/>
     <subtitle>风雪小站，分享点滴</subtitle>
     <logo>https://quarlong.github.io/images/avatar.png</logo>
     <icon>https://quarlong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, FX-Hub</rights>
     <entry>
         <title type="html"><![CDATA[Hello Guys!]]></title>
         <id>https://quarlong.github.io/post/hello-gridea</id>
